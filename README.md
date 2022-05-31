@@ -1,8 +1,6 @@
 # Fork information
 Replaces files.multimc.org with whatever [PolyMC meta](https://github.com/PolyMC/meta-polymc) uses because some launchers are blocked from accessing files.multimc.org.
 
-Work has not been started yet.
-
 # ARMhf/ARM64 Linux only - meta-multimc
 Auto Updating MultiMC/Launcher Minecraft package metadata for ARM64 and ARMhf Linux. Use the `master-clean` branch for ARM64 and `master-clean-arm32` for ARMhf. Warning: No support will be given by Mojang or MultiMC for using this meta repo, all issues should be created via this repo.
 
