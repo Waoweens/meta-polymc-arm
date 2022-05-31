@@ -1,5 +1,5 @@
 # Fork information
-Replaces files.multimc.org with whatever [PolyMC meta](PolyMC/meta-polymc) uses because some launchers are blocked from accessing files.multimc.org.
+Replaces files.multimc.org with whatever [PolyMC meta](https://github.com/PolyMC/meta-polymc) uses because some launchers are blocked from accessing files.multimc.org.
 
 Work has not been started yet.
 
